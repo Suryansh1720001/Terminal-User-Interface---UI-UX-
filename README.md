@@ -16,11 +16,11 @@ It is a terminal user interface in which you can run the command of terminal by 
 
 ## Installation
 
-Simple copy the code on your linux Operating system browser and then run the program by the command - 
+Simple copy the code on your linux Operating system python format file and then run the program by the command - 
 
 - Python3 menu.py 
 
 ![image](https://user-images.githubusercontent.com/85965606/179297291-fa9696ea-884b-41d4-8581-6fb6b4b48c1c.png)
 
 
-## Enhance your knowledge and make the life simplier
+## Enhance your knowledge and make the life simpler
